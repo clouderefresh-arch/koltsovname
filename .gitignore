@@ -1,0 +1,6 @@
+vkr_text.txt
+vkr_text2.txt
+vkr_blocks*.json
+vkr_paragraphs.json
+output/*.pdf
+__pycache__/
